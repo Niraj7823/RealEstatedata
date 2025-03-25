@@ -23,7 +23,7 @@
     "price": "70L",
     "city": "surat",
     "location": "dindoli,surat",
-    "images": "/Project/src/assets/house_images/surat_2/holl.png",
+    "images": "https://ik.imagekit.io/0llvylbdm/House_image/surat_2/house_img.jpg?updatedAt=1742907634591",
     "backimages": [
       "https://ik.imagekit.io/0llvylbdm/House_image/surat_2/holl.png?updatedAt=1742880719621",
       "https://ik.imagekit.io/0llvylbdm/House_image/surat_2/badRoom_2.png?updatedAt=1742880718464",
