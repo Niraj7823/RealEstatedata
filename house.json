@@ -117,6 +117,26 @@
     "contact": "8579652463"
   },
   {
+    "id": "vadodara_4",
+    "price": "2.5cr",
+    "city": "vadodara",
+    "location": "Bhayli,vadodara",
+    "images": "https://ik.imagekit.io/0llvylbdm/House_image/vadodara_3_v/house.png?updatedAt=1742880672170",
+    "backimages": [
+      "https://ik.imagekit.io/0llvylbdm/House_image/vadodara_3_v/hall.png?updatedAt=1742880671823",
+      "https://ik.imagekit.io/0llvylbdm/House_image/vadodara_3_v/bedroom_2.png?updatedAt=1742880671663",
+      "https://ik.imagekit.io/0llvylbdm/House_image/vadodara_3_v/kitchen_2.png?updatedAt=1742880671348",
+      "https://ik.imagekit.io/0llvylbdm/House_image/vadodara_3_v/kitchen.png?updatedAt=1742880670246",
+      "https://ik.imagekit.io/0llvylbdm/House_image/vadodara_3_v/bedroom_1.png?updatedAt=1742880669610"
+    ],
+    "status": "Ready to move",
+    "about": "Empyrean Grassfields in Sevasi, Vadodara is a ready-to-move housing society. It offers villas in varied budget range. These units are a perfect combination of comfort and style, specifically designed to suit your requirements and conveniences.",
+    "bhk": "4BHK villa",
+    "space": "2410sq.ft",
+    "broker": "Skumar",
+    "contact": "8579652463"
+  },
+  {
     "id": "ahmedabad_1",
     "price": "3.2cr",
     "city": "ahmedabad",
