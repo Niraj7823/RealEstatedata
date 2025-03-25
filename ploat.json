@@ -14,9 +14,23 @@
     "broker": "Shivam raj",
     "contact": "9856442563"
   },
+   {
+    "id": "vadodara_3",
+    "price": "75L",
+    "city": "vadodara",
+    "location": "Gotri, Vadodara",
+    "images": [
+      "https://ik.imagekit.io/0llvylbdm/ploats/vadodara_3/plot_2.avif?updatedAt=1742906309891",
+      "https://ik.imagekit.io/0llvylbdm/ploats/vadodara_3/plot_1.avif?updatedAt=1742906309461",
+    ],
+     "about":"2000 square_feet Plot for sale in Gotri, Vadodara. This land has a dimension of 45.0 ft length 40.0 ft width. This Plot is available at a price of Rs 75.0 L. The average price per sqft is Rs 3.75k. Price. This is a corner plot. The width of the facing road is 7.0 mt. This residential land also has a"
+    "space": "2000sq.ft",
+    "broker": "Akshar S",
+    "contact": "9889879624"
+  },
   {
     "id": "surat_1",
-    "price": "2cr",
+    "price": "1cr",
     "city": "surat",
     "location": "mota varachha,surat",
     "images": [
@@ -30,7 +44,7 @@
   },
   {
     "id": "ahmedabad_1",
-    "price": "2.5cr",
+    "price": "2cr",
     "city": "ahmedabad",
     "location": "aviation Refuelling station,ahmedabad",
     "images": [
@@ -43,7 +57,7 @@
   },
   {
     "id": "ahmedabad_2",
-    "price": "2.5cr",
+    "price": "1.5cr",
     "city": "ahmedabad",
     "location": "paldi,ahmedabad",
     "images": [
