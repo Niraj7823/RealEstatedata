@@ -1,0 +1,113 @@
+[
+  {
+    "id": "vadodara_1",
+    "price": "2cr",
+    "city": "vadodara",
+    "location": "kotna,vadodara",
+    "images": [
+      "https://ik.imagekit.io/0llvylbdm/ploats/vadodara_1/image_3.png?updatedAt=1742881174414",
+      "https://ik.imagekit.io/0llvylbdm/ploats/vadodara_1/image_1.png?updatedAt=1742881173916",
+      "https://ik.imagekit.io/0llvylbdm/ploats/vadodara_1/image_2.png?updatedAt=1742881167397"
+    ],
+    "about": "North facing open plotPlot area 7040 square feet",
+    "space": "7040sq.ft",
+    "broker": "Shivam raj",
+    "contact": "9856442563"
+  },
+  {
+    "id": "vadodara_2",
+    "price": "1cr",
+    "city": "vadodara",
+    "location": "kotna,vadodara",
+    "images": [
+      "https://ik.imagekit.io/0llvylbdm/ploats/vadodara_2/image_1.jpg?updatedAt=1742881163404"
+    ],
+    "about": "On sun pharma 30 m road tach plot. And best location for hospital and other commercial activate.",
+    "space": "2030sq.ft",
+    "broker": "avinash patel",
+    "contact": "9856442563"
+  },
+  {
+    "id": "cuttack_1",
+    "price": "20L",
+    "city": "vadodara",
+    "location": "Badaroutpati, near sbi kendupatna branch , nischantakoli , cuttack",
+    "images": [
+      "https://ik.imagekit.io/0llvylbdm/ploats/cuttack_1/image_2.png?updatedAt=1742881181584",
+      "https://ik.imagekit.io/0llvylbdm/ploats/cuttack_1/image_1.png?updatedAt=1742881176250",
+      "https://ik.imagekit.io/0llvylbdm/ploats/cuttack_1/image_3.png?updatedAt=1742881181701"
+    ],
+    "about": "1530 sq.Foot or 3 guntha plot for sale near nh road",
+    "space": "1530sq.ft",
+    "broker": "uttam patra",
+    "contact": "9856442563"
+  },
+  {
+    "id": "cuttack_2",
+    "price": "70L",
+    "city": "cuttack",
+    "location": "Pdasapalla,odisha",
+    "images": [
+      "https://ik.imagekit.io/0llvylbdm/ploats/cuttack_2/image_1.png?updatedAt=1742881176256"
+    ],
+    "about": "",
+    "space": "1400sq.ft",
+    "broker": "lalu das",
+    "contact": "9856442563"
+  },
+  {
+    "id": "cuttack_3",
+    "price": "1cr",
+    "city": "vadodara",
+    "location": "Phulnakhara cutttack,odisha",
+    "images": [
+      "https://ik.imagekit.io/0llvylbdm/ploats/cuttack_3/image_2.png?updatedAt=1742881180610",
+      "https://ik.imagekit.io/0llvylbdm/ploats/cuttack_3/image_1.png?updatedAt=1742881178599"
+    ],
+    "about": "Land for sale in trisulia",
+    "space": "2500sq.ft",
+    "broker": "Rohan mishra",
+    "contact": "9856442563"
+  },
+  {
+    "id": "surat_1",
+    "price": "2cr",
+    "city": "vadodara",
+    "location": "mota varachha,surat",
+    "images": [
+      "https://ik.imagekit.io/0llvylbdm/ploats/surat_1/ploat_1.png?updatedAt=1742881173484",
+      "https://ik.imagekit.io/0llvylbdm/ploats/surat_1/ploat_image_2.png?updatedAt=1742881170065"
+    ],
+    "about": "Plot is located in heart of the city, most luxurious and premium area of surat",
+    "space": "3000sq.ft",
+    "broker": "naresh mehta",
+    "contact": "9856442563"
+  },
+  {
+    "id": "ahmedabad_1",
+    "price": "2.5cr",
+    "city": "ahmedabad",
+    "location": "aviation Refuelling station,ahmedabad",
+    "images": [
+      "https://ik.imagekit.io/0llvylbdm/ploats/ahmedabad_1/image_1.jpg?updatedAt=1742881180153"
+    ],
+    "about": "This society only plot society already all bunglows ready to move. People coming very good society near choice meter road.",
+    "space": "2000sq.ft",
+    "broker": "gautam shah",
+    "contact": "9856442563"
+  },
+  {
+    "id": "ahmedabad_2",
+    "price": "2.5cr",
+    "city": "ahmedabad",
+    "location": "paldi,ahmedabad",
+    "images": [
+      "https://ik.imagekit.io/0llvylbdm/ploats/ahmedabad_2/image_2.jpg?updatedAt=1742881179252",
+      "https://ik.imagekit.io/0llvylbdm/ploats/ahmedabad_2/image.jpg?updatedAt=1742881178712"
+    ],
+    "about": "Plot for sale at aarohi club plot south bopal 385 sqyd carpet plot with 2 road corner with 7.5 meter wide road with east west facing directionOn of the best society for living all plot are carpet and well maintained society with very good location",
+    "space": "2200sq.ft",
+    "broker": "mahesh rana",
+    "contact": "9856442563"
+  }
+]
